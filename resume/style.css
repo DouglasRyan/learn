@@ -99,6 +99,9 @@
   
   
   /* 卡片 */
+  main{
+    margin-top: -300px;
+  }
   .userCard {
     max-width: 940px;
     margin-left: auto;
